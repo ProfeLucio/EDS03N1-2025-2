@@ -5,6 +5,8 @@ Estructuras de Datos
 
 ## 👩‍💻 Integrante
 - Yenny Paola Bravo Paredes
+- Lina Marcela Bravo Cuero
 
 ## 📝 Algoritmo
 Selection Sort
+Insertion Sort
