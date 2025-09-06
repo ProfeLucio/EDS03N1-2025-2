@@ -8,5 +8,5 @@ Estructuras de Datos
 - Lina Marcela Bravo Cuero
 
 ## 📝 Algoritmo
-Selection Sort
-Insertion Sort
+- Selection Sort
+- Insertion Sort
