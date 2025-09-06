@@ -10,3 +10,6 @@ Estructuras de Datos
 ## 📝 Algoritmo
 - Selection Sort
 - Insertion Sort
+
+## Comentarios
+- Hasta ahora esta hecho Llenar y mostrar eso es el punto del taller. 
